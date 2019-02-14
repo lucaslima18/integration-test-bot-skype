@@ -1,2 +1,2 @@
-# integration-test-bot-skype
-repository for testing integration of one bot with skype
+# Test parse cloud code
+a simple application for create users on local parse server 
